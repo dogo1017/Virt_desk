@@ -1,7 +1,8 @@
 {
   "features": {
     "ghcr.io/devcontainers/features/desktop-lite:1": {
-      "password": "vscode"
+      "password": "vscode",
+      "screenDepth": "24"
     }
   },
   "forwardPorts": [6080],
